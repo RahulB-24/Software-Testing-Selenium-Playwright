@@ -1,4 +1,4 @@
-# Software Testing Assignment
+# Software Testing
 
 This project contains automated test scripts for **login** and **registration modules** using **Selenium** and **Playwright**. It also generates **HTML test reports** for validation. The project is designed to be easily cloned and executed using **VS Code** or any Python environment.
 
