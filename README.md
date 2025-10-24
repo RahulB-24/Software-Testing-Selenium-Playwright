@@ -107,10 +107,3 @@ After running the tests, open the HTML files in the reports/ folder using any br
 Selenium Report: reports/selenium_report.html
 
 Playwright Report: reports/playwright_report.html
-
-Recommended Best Practices
-Keep the virtual environment active when running tests.
-
-Update requirements.txt if new packages are added.
-
-Ensure internet connectivity for accessing demo websites.
